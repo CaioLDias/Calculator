@@ -21,4 +21,6 @@ If the user's option isn't available, it will stop the program, making the user 
 
 ![alt text](images/image-3.png)
 
+Let me know if anything can be modified in order to make this app better.
+
 # Enjoy!! 😎
